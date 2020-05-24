@@ -1,0 +1,8 @@
+
+[squid:S21478"DCombine this catch with the one at line 54, which has the same body.(ï­£Ä
+csquid:S00112Y"FDefine and throw a dedicated exception instead of using a generic one.(øÜ¦ƒùÿÿÿÿ
+?squid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+csquid:S00112="FDefine and throw a dedicated exception instead of using a generic one.(„øØûÿÿÿÿ
+_squid:CallToDeprecatedMethod-"7Remove this use of "ANTLRFileStream"; it is deprecated.(„ã‡€
+?squid:S11489"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+fsquid:UnusedPrivateMethod"<Remove this unused private "clearJarTargetDirectory" method.(³½÷£ıÿÿÿÿ

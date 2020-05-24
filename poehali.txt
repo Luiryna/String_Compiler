@@ -1,0 +1,24 @@
+fun string str_Example (string data_one) {
+    data_one=data_one+data_one
+    return data_one
+}
+
+main {
+
+  string a_a = aaaaaaaa
+
+  a_a = str_Example(a_a)
+  print a_a
+
+  integer a_b = 3
+  print a_b
+
+  integer aa_ = 3
+
+  integer b_b = 6
+  for (b_b=0; b_b<5; b_b++){
+    print b_b
+    }
+  }
+
+

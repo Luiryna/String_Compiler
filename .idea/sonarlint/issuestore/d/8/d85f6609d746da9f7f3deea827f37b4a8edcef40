@@ -1,0 +1,11 @@
+
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÉ‚è
+isquid:S00117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó„¡É
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùíî¨üÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ñ€õþÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­áéÜ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÉ‚è
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+Nsquid:S1854"7Remove this useless assignment to local variable "b_b".(­áéÜ
+Ssquid:S1854"7Remove this useless assignment to local variable "aa_".(‹ñ€õþÿÿÿÿ
+Dsquid:S1481"(Remove this unused "aa_" local variable.(‹ñ€õþÿÿÿÿ

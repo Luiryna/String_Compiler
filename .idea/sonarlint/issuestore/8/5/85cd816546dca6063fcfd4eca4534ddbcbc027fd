@@ -1,0 +1,30 @@
+
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìÄÅúÿÿÿÿ8‡Ç§ö£.
+{squid:S1488„"\Immediately return this expression instead of assigning it to the temporary variable "name".(µŠ–¯8‡Ç§ö£.
+osquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(ñ‰ú®øÿÿÿÿ8‡Ç§ö£.
+@squid:S1643‡"Use a StringBuilder instead.(€î¹¾ÿÿÿÿÿ8‡Ç§ö£.
+jsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(×…Œ8‡Ç§ö£.
+osquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(Ÿ¼“‰ûÿÿÿÿ8‡Ç§ö£.
+@squid:S1643ˆ"Use a StringBuilder instead.(°–‹¢øÿÿÿÿ8‡Ç§ö£.
+;squid:S1643Œ"Use a StringBuilder instead.(š’ı¹8‡Ç§ö£.
+@squid:S1643œ"Use a StringBuilder instead.(èÁÚğÿÿÿÿÿ8‡Ç§ö£.
+:squid:S1643¡"Use a StringBuilder instead.(ıÀ¹8‡Ç§ö£.
+@squid:S1643¢"Use a StringBuilder instead.(°–‹¢øÿÿÿÿ8‡Ç§ö£.
+fsquid:S00112À"FDefine and throw a dedicated exception instead of using a generic one.(­ş‚€8‡Ç§ö£.
+gsquid:UnusedPrivateMethodh"6Remove this unused private "checkCastFunction" method.(èş™ûÿÿÿÿ8‡Ç§ö£.
+;squid:S1643 "Use a StringBuilder instead.(´ææİ8‡Ç§ö£.
+Asquid:S1148m"#Use a logger to log this exception.(¶öıÒ8Ìé¶ö£.
+^squid:S1161ï":Add the "@Override" annotation above this method signature(†…ÚÂøÿÿÿÿ8Ù¤òö£.
+„squid:S1488Ø"`Immediately return this expression instead of assigning it to the temporary variable "forBlock".(şÑ‰“şÿÿÿÿ8‡Ç§ö£.
+jsquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(×…Œ8‡Ç§ö£.
+;squid:S1643›"Use a StringBuilder instead.(†‰³ƒ8‡Ç§ö£.
+Ssquid:EmptyStatementUsageCheckâ"Remove this empty statement.(ÔÈª“ùÿÿÿÿ8‡Ç§ö£.
+`squid:UnusedPrivateMethodt"4Remove this unused private "getTypeVariable" method.(¶Æòÿ8‡Ç§ö£.
+osquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(ÙÙß¡ıÿÿÿÿ8‡Ç§ö£.
+ksquid:S00112×"FDefine and throw a dedicated exception instead of using a generic one.(–ÅŸ’úÿÿÿÿ8‡Ç§ö£.
+bsquid:UselessImportCheck	"2Remove this unused import 'javax.print.DocFlavor'.(ÍØƒïúÿÿÿÿ8‡Ç§ö£.
+€squid:S1488ø"\Immediately return this expression instead of assigning it to the temporary variable "buff".(ÄÙô¬ùÿÿÿÿ8‡Ç§ö£.
+@squid:S1643"Use a StringBuilder instead.(¸‚Çµùÿÿÿÿ8‡Ç§ö£.
+@squid:S1643"Use a StringBuilder instead.(°–‹¢øÿÿÿÿ8‡Ç§ö£.
+hsquid:S1192@"JDefine a constant instead of duplicating this literal "Variable " 3 times.(Ìã‰ó8Â¡ß¤.
+osquid:S1192W"QDefine a constant instead of duplicating this literal " need have type " 3 times.(ô¯ê¢8Â¡ß¤.
